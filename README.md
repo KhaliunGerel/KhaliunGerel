@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I'm Khaliun<br><br>- 🎓 MSCS @ Columbia University<br>- 💼 6+ years of software engineering experience<br>- ⚙️ Interested in backend systems, cloud infrastructure, and AI<br>- 🌐 Building with React, Next.js, Flutter, Node.js, Python, and AWS<br>- 🚀 Looking for opportunities to build impactful products and scalable systems
+👋 Hi, I'm Khaliun<br><br>- 🎓 MSCS @ Columbia University<br>- 💼 7+ years of software engineering experience<br>- ⚙️ Interested in backend systems, cloud infrastructure, and AI<br>- 🌐 Building with React, Next.js, Flutter, Node.js, Python, and AWS<br>- 🚀 Looking for opportunities to build impactful products and scalable systems
 
 
 ## 🌐 Socials:
